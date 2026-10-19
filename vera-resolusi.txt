@@ -22,5 +22,5 @@ Memperdalam keterampilan pemrograman web dan pengembangan aplikasi.
 
 Mengintegrasikan Artificial Intelligence (AI) dalam proses pembelajaran dan penelitian.
 
-Mengembangkan proyek pembelajaran berbasis GitHub yang dapat meningkatkan kemampuan berpikir kritis dan pemecahan masalah mahasiswa.
+Mengembangkan proyek pembelajaran berbasis GitHub yang dapat meningkatkan kemampuan berpikir kritis dan pemecahan masalah mahasiswa, serta mengembangkan sikap kolaborasi dengan tim.
 
